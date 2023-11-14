@@ -1470,8 +1470,13 @@ footer .credits a {
   color: white;
   padding-left: 10px;
   border: 1px solid rgba(8, 8, 8, 6.9);
-  border-spacing: 50px;
-  border-right-width: 1000px;
+  list-style-type: none;
   background-color: #737d88;
-}
 
+#titletugas:hover {
+  color: black;
+  padding-left: 10px;
+  border: 1px solid rgba(8, 8, 8, 6.9);
+  list-style-type: none;
+  background-color: #fbfcfd;
+}
